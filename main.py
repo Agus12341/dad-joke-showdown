@@ -1,6 +1,6 @@
 import os
 
-TEXT = "I'm afraid for the calendar. Its days are numbered."
+TEXT = "My son said, 'Dad, I'm hungry.' I said, 'Hi Hungry, I'm Dad.' I waited nine years for that moment and it was worth every day."
 
 
 def main():
