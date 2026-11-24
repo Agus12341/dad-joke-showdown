@@ -8,7 +8,7 @@ An entry for make.fun's [Dad Joke Showdown](https://make.fun/bounty/u-mfnakmal-d
 
 `main.py` writes one dad joke to `/output/entry.txt`:
 
-> I'm afraid for the calendar. Its days are numbered.
+> My son said, 'Dad, I'm hungry.' I said, 'Hi Hungry, I'm Dad.' I waited nine years for that moment and it was worth every day.
 
 ## License
 
